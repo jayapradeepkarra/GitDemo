@@ -1,2 +1,2 @@
-.log
-log folder/
+*.log
+/log folder

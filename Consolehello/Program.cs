@@ -14,6 +14,7 @@ namespace CalcSimple
         static void Calc()
         {
             int i, j, res;
+            Console.Write("This is Simple Calculator");
             Console.Write("Enter value 1 :");
             i = Int32.Parse(Console.ReadLine());
 

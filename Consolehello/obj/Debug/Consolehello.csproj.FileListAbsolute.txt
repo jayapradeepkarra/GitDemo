@@ -1,0 +1,6 @@
+E:\Cognizant\WorkSpace\C#\Consolehello\Consolehello\obj\Debug\Consolehello.csproj.CoreCompileInputs.cache
+E:\Cognizant\WorkSpace\C#\Consolehello\Consolehello\bin\Debug\Consolehello.exe.config
+E:\Cognizant\WorkSpace\C#\Consolehello\Consolehello\bin\Debug\Consolehello.exe
+E:\Cognizant\WorkSpace\C#\Consolehello\Consolehello\bin\Debug\Consolehello.pdb
+E:\Cognizant\WorkSpace\C#\Consolehello\Consolehello\obj\Debug\Consolehello.exe
+E:\Cognizant\WorkSpace\C#\Consolehello\Consolehello\obj\Debug\Consolehello.pdb
